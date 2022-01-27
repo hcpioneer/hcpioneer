@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hcpioneer
 - 👀 I’m interested in every programming language
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on cloud computing
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on android hal developing
 - 📫 How to reach me 675754672@qq.com
 
 <!---
